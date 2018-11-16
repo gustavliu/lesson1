@@ -1,6 +1,7 @@
 import networkx
 import matplotlib.pyplot as plt
 
+
 BJ = 'Beijing'
 SZ = 'Shenzhen'
 GZ = 'Guangzhou'

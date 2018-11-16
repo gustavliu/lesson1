@@ -1,5 +1,6 @@
 import random
 
+
 grammar = """
 sentence = adj noun verb adj noun2
 adj = adj_single 和 adj_single 的 | null
