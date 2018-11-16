@@ -10,6 +10,7 @@ NY = 'New York City'
 CM = 'Chiangmai'
 SG = 'Singapore'
 
+
 air_route = {
     BJ : {SZ, GZ, WH, HLG, NY},
     GZ : {WH, BJ, CM, SG},
